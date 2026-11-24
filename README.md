@@ -1,14 +1,13 @@
 # Inspetor de Meta Tags e Redes Sociais | TAVARDT Portugal
 
 [![Inspetor Meta Tags](https://img.shields.io/badge/TAVARDT-Meta%20Tags-5b3cf5.svg)](https://tools.tavardt.com/pt/verificador-meta-tags-seo/)
-[![Jurisdicao](https://img.shields.io/badge/Jurisdicao-Portugal-00C853.svg)](https://ag.tavardt.com/pt/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Auditoria tecnica de etiquetas HTML, verificacao de dimensoes de titulo e meta description, pre-visualizacao de cartoes sociais e regras de indexacao.
 
-Desenvolvido e mantido pela divisao de pesquisa semantica da **[TAVARDT Portugal](https://ag.tavardt.com/pt/)**.
+Desenvolvido e mantido pela divisao de pesquisa semantica da **TAVARDT Portugal**.
 
----
+***
 
 ## Capacidades de Auditoria de Metadados e Redes Sociais
 
@@ -18,7 +17,7 @@ Desenvolvido e mantido pela divisao de pesquisa semantica da **[TAVARDT Portugal
 * **Diretivas de Rastreadores**: Verificacao da etiqueta meta robots e presenca da ligacao canonica.
 * **Indice de Qualidade de Metadados**: Avaliacao numerica de 0 a 100 com recomendacoes de otimizacao editorial.
 
----
+***
 
 ## Instalacao e Execucao
 
@@ -33,20 +32,20 @@ python meta_inspector.py exemplo.pt
 Para saida em formato JSON:
 
 ```bash
-python meta_inspector.py exemplo.pt --json
+python meta_inspector.py exemplo.pt -json
 ```
 
----
+***
 
 ## Plataforma Online de Diagnostico
 
 Para auditorias e simulacoes graficas de partilha social:
 
-* **[Inspetor de Meta Tags SEO Oficial](https://tools.tavardt.com/pt/verificador-meta-tags-seo/)**
+* **Inspetor de Meta Tags SEO Oficial**
 * **[Portal Corporativo TAVARDT Portugal](https://ag.tavardt.com/pt/)**
 
----
+***
 
 ## Consultoria Semantica e SEO Tecnico
 
-Para projetos corporativos de visibilidade digital em linha com Padroes Web e Diretrizes Tecnicas Europeias, consulte a **[TAVARDT Portugal](https://ag.tavardt.com/pt/contato/)**.
+Para projetos corporativos de visibilidade digital em linha com Padroes Web e Diretrizes Tecnicas Europeias, consulte a **TAVARDT Portugal**.
