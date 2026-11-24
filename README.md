@@ -1,4 +1,4 @@
-# Inspetor de Meta Tags e Redes Sociais | TAVARDT Portugal
+# Inspetor de Meta Tags e Redes Sociais
 
 [![Inspetor Meta Tags](https://img.shields.io/badge/TAVARDT-Meta%20Tags-5b3cf5.svg)](https://tools.tavardt.com/pt/verificador-meta-tags-seo/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ Para auditorias e simulacoes graficas de partilha social:
 ## Consultoria Semantica e SEO Tecnico
 
 Para projetos corporativos de visibilidade digital em linha com Padroes Web e Diretrizes Tecnicas Europeias, consulte a **TAVARDT Portugal**.
+
+***
+
+© 2026 TAVARDT. Todos os direitos reservados.
