@@ -5,7 +5,7 @@
 
 Auditoria tecnica de etiquetas HTML, verificacao de dimensoes de titulo e meta description, pre-visualizacao de cartoes sociais e regras de indexacao.
 
-Desenvolvido e mantido pela divisao de pesquisa semantica da **TAVARDT Portugal**.
+Desenvolvido e mantido pela divisao de pesquisa semantica da **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python meta_inspector.py exemplo.pt -json
 Para auditorias e simulacoes graficas de partilha social:
 
 * **Inspetor de Meta Tags SEO Oficial**
-* **[Portal Corporativo TAVARDT Portugal](https://ag.tavardt.com/pt/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/pt/)**
 
 ***
 
 ## Consultoria Semantica e SEO Tecnico
 
-Para projetos corporativos de visibilidade digital em linha com Padroes Web e Diretrizes Tecnicas Europeias, consulte a **TAVARDT Portugal**.
+Para projetos corporativos de visibilidade digital em linha com Padroes Web e Diretrizes Tecnicas Europeias, consulte a **TAVARDT**.
 
 ***
 
