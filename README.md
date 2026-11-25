@@ -6,8 +6,6 @@
 
 Ferramenta automatizada de avaliacao de metadados HTML em Portugal, garantindo otimizacao de snippets de pesquisa e renderizacao de cartoes em redes sociais.
 
-Desenvolvido e mantido pela divisao de engenharia de busca e desempenho web da **TAVARDT Portugal**.
-
 ***
 
 ## Capacidades de Auditoria de Metadados e Redes Sociais
@@ -38,15 +36,6 @@ python meta_inspector.py exemplo.pt -json
 
 ***
 
-## Plataforma Online de Diagnostico
-
-Para auditorias e simulacoes graficas de partilha social:
-
-* **Inspetor de Meta Tags SEO Oficial**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/pt/)**
-
-***
-
 ## Consultoria Semantica e SEO Tecnico
 
 Para projetos corporativos de visibilidade digital em linha com Padroes Web e Diretrizes Tecnicas Europeias, consulte a **TAVARDT**.
@@ -64,7 +53,7 @@ Para projetos corporativos de visibilidade digital em linha com Padroes Web e Di
 ***
 
 ### Licença
-Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
+Distribuído sob a Licença MIT.
 
 ***
 
