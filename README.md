@@ -1,12 +1,12 @@
-# Inspetor de Meta Tags e Redes Sociais
+# Inspetor de Meta Tags e Protocolo Open Graph
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Inspetor Meta Tags](https://img.shields.io/badge/TAVARDT-Meta%20Tags-5b3cf5.svg)](https://tools.tavardt.com/pt/verificador-meta-tags-seo/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-Auditoria tecnica de etiquetas HTML, verificacao de dimensoes de titulo e meta description, pre-visualizacao de cartoes sociais e regras de indexacao.
+Ferramenta automatizada de avaliacao de metadados HTML em Portugal, garantindo otimizacao de snippets de pesquisa e renderizacao de cartoes em redes sociais.
 
-Desenvolvido e mantido pela divisao de pesquisa semantica da **TAVARDT Portugal**.
+Desenvolvido e mantido pela divisao de engenharia de busca e desempenho web da **TAVARDT Portugal**.
 
 ***
 
@@ -53,12 +53,19 @@ Para projetos corporativos de visibilidade digital em linha com Padroes Web e Di
 
 ***
 
-© 2026 TAVARDT Portugal. Todos os direitos reservados. Soberania e Defesa de Infraestrutura.
 
-***
 
 ## Links Úteis
 
 * **Portal Corporativo:** https://ag.tavardt.com/pt/
 * **Suíte de Diagnósticos:** https://tools.tavardt.com/pt/
 * **Contacto Técnico:** https://ag.tavardt.com/pt/contacto/
+
+***
+
+### Licença
+Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
